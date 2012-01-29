@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\engine">
+      <UniqueIdentifier>{712d4ae4-e119-49d9-b73b-8f5af67b9e06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\engine\include">
+      <UniqueIdentifier>{0de1a492-1a36-4d77-9062-da088bd52291}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\engine\src">
+      <UniqueIdentifier>{57f9c19c-8dc9-4c36-9293-989a54c1e8d4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="driver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="engine\src\common.cpp">
+      <Filter>Source Files\engine\src</Filter>
+    </ClCompile>
+    <ClCompile Include="engine\src\game.cpp">
+      <Filter>Source Files\engine\src</Filter>
+    </ClCompile>
+    <ClCompile Include="engine\src\interface.cpp">
+      <Filter>Source Files\engine\src</Filter>
+    </ClCompile>
+    <ClCompile Include="engine\src\node.cpp">
+      <Filter>Source Files\engine\src</Filter>
+    </ClCompile>
+    <ClCompile Include="engine\src\option.cpp">
+      <Filter>Source Files\engine\src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="driver.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="global.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="engine\include\common.h">
+      <Filter>Source Files\engine\include</Filter>
+    </ClInclude>
+    <ClInclude Include="engine\include\game.h">
+      <Filter>Source Files\engine\include</Filter>
+    </ClInclude>
+    <ClInclude Include="engine\include\interface.h">
+      <Filter>Source Files\engine\include</Filter>
+    </ClInclude>
+    <ClInclude Include="engine\include\node.h">
+      <Filter>Source Files\engine\include</Filter>
+    </ClInclude>
+    <ClInclude Include="engine\include\option.h">
+      <Filter>Source Files\engine\include</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,1012 @@
+{
+	@nodeIndex: "0"
+	@state: "1"
+	@banner: "Beginning"
+	@paragraph: "You are attacked by Raptors in the Jungle. You escaped, but were injured. You must find refuge to survive the night."
+	@options:
+	[
+		"Begin", 1
+	]
+}
+{
+	@nodeIndex: "1"
+	@state: "1"
+	@banner: "River"
+	@paragraph: "You are at the banks of a River."
+	@options: 
+	[
+		"Go upstream to Mountains", 2
+		"Cross the river to Forest", 3
+		"Go downstream to Lake", 4
+	]
+}
+{
+	@nodeIndex: "2"
+	@state: "1"
+	@banner: "Mountains"
+	@paragraph: "You are at the Mountains."
+	@options: 
+	[
+		"Go into the Cave", 5
+		"Scale the Cliff", 6
+		"Go down to the Valley", 7
+	]
+}
+{
+	@nodeIndex: "3"
+	@state: "1"
+	@banner: "Forest"
+	@paragraph: "You are at the Forest."
+	@options: 
+	[
+		"", 8
+		"", 9
+		"", 10
+	]
+}
+{
+	@nodeIndex: "4"
+	@state: "1"
+	@banner: "Lake"
+	@paragraph: "You are at the Lake."
+	@options: 
+	[
+		"", 11
+		"", 12
+		"", 13
+	]
+}
+{
+	@nodeIndex: "5"
+	@state: "1"
+	@banner: "Cave"
+	@paragraph: "You are inside the Cave."
+	@options: 
+	[
+		"", 14
+		"", 15
+		"", 16
+	]
+}
+{
+	@nodeIndex: "6"
+	@state: "1"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", 17
+		"", 18
+		"", 19
+	]
+}
+{
+	@nodeIndex: "7"
+	@state: "1"
+	@banner: "Lake"
+	@paragraph: "You are at the Lake."
+	@options: 
+	[
+		"", 20
+		"", 21
+		"", 22
+	]
+}
+{
+	@nodeIndex: "8"
+	@state: "1"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", 23
+		"", 24
+		"", 25
+	]
+}
+{
+	@nodeIndex: "9"
+	@state: "1"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", 26
+		"", 27
+		"", 28
+	]
+}
+{
+	@nodeIndex: "10"
+	@state: "1"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", 29
+		"", 30
+		"", 31
+	]
+}
+{
+	@nodeIndex: "11"
+	@state: "1"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", 32
+		"", 33
+		"", 34
+	]
+}
+{
+	@nodeIndex: "12"
+	@state: "1"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", 35
+		"", 36
+		"", 37
+	]
+}
+{
+	@nodeIndex: "13"
+	@state: "1"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", 38
+		"", 39
+		"", 40
+	]
+}
+{
+	@nodeIndex: "14"
+	@state: "1"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", 41
+		"", 42
+		"", 43
+	]
+}
+{
+	@nodeIndex: "15"
+	@state: "0"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"Restart", -1
+	]
+}
+{
+	@nodeIndex: "16"
+	@state: "1"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", 44
+		"", 45
+		"", 46
+	]
+}
+{
+	@nodeIndex: "17"
+	@state: "0"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"Restart", 0
+	]
+}
+{
+	@nodeIndex: "18"
+	@state: "1"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", 47
+		"", 48
+		"", 49
+	]
+}
+{
+	@nodeIndex: "19"
+	@state: "1"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", 50
+		"", 51
+		"", 52
+	]
+}
+{
+	@nodeIndex: "20"
+	@state: "1"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", 53
+		"", 54
+		"", 55
+	]
+}
+{
+	@nodeIndex: "21"
+	@state: "1"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", 56
+		"", 57
+		"", 58
+	]
+}
+{
+	@nodeIndex: "22"
+	@state: "0"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"Restart", 0
+	]
+}
+{
+	@nodeIndex: "23"
+	@state: "0"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"Restart", 0
+	]
+}
+{
+	@nodeIndex: "24"
+	@state: "1"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", 59
+		"", 60
+		"", 61
+	]
+}
+{
+	@nodeIndex: "25"
+	@state: "1"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", 62
+		"", 63
+		"", 64
+	]
+}
+{
+	@nodeIndex: "26"
+	@state: "1"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", 65
+		"", 66
+		"", 67
+	]
+}
+{
+	@nodeIndex: "27"
+	@state: "0"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "28"
+	@state: "1"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", 68
+		"", 69
+		"", 70
+	]
+}
+{
+	@nodeIndex: "29"
+	@state: "1"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", 71
+		"", 72
+		"", 73
+	]
+}
+{
+	@nodeIndex: "30"
+	@state: "1"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", 74
+		"", 75
+		"", 76
+	]
+}
+{
+	@nodeIndex: "31"
+	@state: "0"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", 0
+	]
+}
+{
+	@nodeIndex: "32"
+	@state: "1"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", 77
+		"", 78
+		"", 79
+	]
+}
+{
+	@nodeIndex: "33"
+	@state: "1"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", 80
+		"", 81
+		"", 82
+	]
+}
+{
+	@nodeIndex: "34"
+	@state: "0"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", 0
+	]
+}
+{
+	@nodeIndex: "35"
+	@state: "0"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", 0
+	]
+}
+{
+	@nodeIndex: "36"
+	@state: "1"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", 83
+		"", 84
+		"", 85
+	]
+}
+{
+	@nodeIndex: "37"
+	@state: "1"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", 86
+		"", 87
+		"", 88
+	]
+}
+{
+	@nodeIndex: "38"
+	@state: "1"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", 89
+		"", 90
+		"", 91
+	]
+}
+{
+	@nodeIndex: "39"
+	@state: "0"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", 0
+	]
+}
+{
+	@nodeIndex: "40"
+	@state: "1"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", 92
+		"", 93
+		"", 94
+	]
+}
+{
+	@nodeIndex: "41"
+	@state: "0"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "42"
+	@state: "0"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "43"
+	@state: "2"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "44"
+	@state: "0"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "45"
+	@state: "2"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "46"
+	@state: "0"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "47"
+	@state: "0"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "48"
+	@state: "2"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "49"
+	@state: "0"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "50"
+	@state: "2"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "51"
+	@state: "0"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "52"
+	@state: "0"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "53"
+	@state: "2"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "54"
+	@state: "0"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "55"
+	@state: "0"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "56"
+	@state: "2"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "57"
+	@state: "0"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "58"
+	@state: "0"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "59"
+	@state: "2"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "60"
+	@state: "0"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "61"
+	@state: "0"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "62"
+	@state: "0"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "63"
+	@state: "0"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "64"
+	@state: "2"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "65"
+	@state: "0"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "66"
+	@state: "2"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "67"
+	@state: "0"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "68"
+	@state: "0"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "69"
+	@state: "2"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "70"
+	@state: "0"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "71"
+	@state: "0"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "72"
+	@state: "0"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "73"
+	@state: "2"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "74"
+	@state: "2"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "75"
+	@state: "0"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "76"
+	@state: "0"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "77"
+	@state: "2"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "78"
+	@state: "0"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "79"
+	@state: "0"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "80"
+	@state: "0"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "81"
+	@state: "0"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "82"
+	@state: "2"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "83"
+	@state: "0"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "84"
+	@state: "2"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "85"
+	@state: "2"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "86"
+	@state: "0"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "87"
+	@state: "2"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "88"
+	@state: "0"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "89"
+	@state: "0"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "90"
+	@state: "0"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "91"
+	@state: "2"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "92"
+	@state: "2"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "93"
+	@state: "0"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
+{
+	@nodeIndex: "94"
+	@state: "0"
+	@banner: ""
+	@paragraph: ""
+	@options: 
+	[
+		"", -1
+	]
+}
