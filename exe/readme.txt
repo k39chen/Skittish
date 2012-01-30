@@ -1,6 +1,6 @@
 Hello you,
 
-So I see that you want this out.
+So I see that you want to try this out.
 
 You want to know how to use this? Pretty simple. Things you need to know:
 
