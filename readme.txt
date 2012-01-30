@@ -1,6 +1,6 @@
 Hey guys,
 
-SCIT is a super simple command line text game (SCIT).
+SCIT is a super simple command-line interactive text-based-game (SCIT).
 
 If you're reading this, you must be here for one of two reasons:
 
