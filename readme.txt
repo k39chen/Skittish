@@ -1,6 +1,6 @@
 Hey guys,
 
-SCIT is a super simple command-line interactive text-based-game (SCIT).
+Skittish is a super simple command-line interactive text-based-game.
 
 If you're reading this, you must be here for one of two reasons:
 
