@@ -1,8 +1,5 @@
 Skittish
---------------
-
-This project is no longer being developed.
-
+===========
+A command-line text game generator, written in C++.
 _______________
-
-A command-line text game generator.
+**This project is no longer being developed or supported.**
