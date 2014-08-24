@@ -1,8 +1,6 @@
 Skittish
 ===========
 
-_NO LONGER IN ACTIVE DEVELOPMENT_
-
 A command-line text game generator, written in C++.
 
 License
